@@ -18,8 +18,8 @@ We use Label Encoding for any categorical variables with only 2 categories and O
 
 ## Supervised Learning Techniques
 Algorithms used:
-Logistic regression
-Random Forest
-Extreme Gradient Boost
+1. Logistic regression
+2. Random Forest
+3. Extreme Gradient Boost
 
 
